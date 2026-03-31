@@ -1,69 +1,68 @@
-<h1 align="center">Hi 👋, I'm Yasin Mithani</h1>
-<h3 align="center">💻 C++ Developer | 🧠 DSA Learner | 🚀 Future Full Stack Developer</h3>
+## 🚀 About Me
+
+Hey! I'm **Yasin Mithani** 👋
+
+💻 Passionate developer with strong interest in **problem solving & clean coding**
+🚀 Currently mastering **Data Structures & Algorithms (DSA)**
+
+🌟 **Core Strengths:**
+✔️ Strong in **C & C++ Programming**
+✔️ Good understanding of **DSA concepts**
+✔️ Frontend development using **HTML, CSS & Bootstrap**
+
+🔥 I love building **real-world projects** and continuously improving my skills
+🎯 My goal is to become a **Full Stack Developer**
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Skills
 
-* 💡 I enjoy solving problems using **C & C++**
-* 🧠 Currently focused on **Data Structures & Algorithms**
-* 🌐 Building frontend projects using **HTML, CSS, Bootstrap**
-* 🚀 Consistently improving through real-world projects
+### 💻 Programming
 
----
+✔️ C
+✔️ C++
 
-## ⚡ What I Do
+### 🧠 Problem Solving
 
-* 💻 Write clean and efficient code
-* 🧠 Practice DSA to improve logic
-* 🔨 Build small but meaningful projects
+✔️ Data Structures & Algorithms (DSA)
 
----
+### 🌐 Frontend
 
-## 🛠️ Tech Stack
+✔️ HTML
+✔️ CSS
+✔️ Bootstrap
 
-**Languages:**
-C, C++
+### ⚙️ Tools
 
-**Frontend:**
-HTML, CSS, Bootstrap
-
-**Core:**
-Data Structures & Algorithms
-
-**Tools:**
-Git, GitHub
+✔️ Git
+✔️ GitHub
 
 ---
 
-## 📊 GitHub Activity
+## 🎯 Current Focus
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yasin7458&show_icons=true" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=yasin7458" />
-</p>
+🚀 Improving **DSA problem-solving skills**
+🚀 Building **real-world projects**
+🚀 Learning **advanced web development**
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-* 🔹 CRUD Array System
-* 🔹 Sorting Algorithms
-* 🔹 Mini Practice Projects
+🔹 **CRUD Array System**
+→ Perform create, read, update, delete operations
 
----
+🔹 **Sorting Algorithms**
+→ Implementation of core DSA sorting techniques
 
-## 📫 Contact
-
-* 📧 [yashinmithani950@gmail.com](mailto:yashinmithani950@gmail.com)
-* 🔗 https://www.linkedin.com/in/yashin-mithani-7421093ab
+🔹 **Mini Projects**
+→ Logic building & hands-on practice programs
 
 ---
 
-<p align="center">
-  🔥 <b>Keep Learning. Keep Building.</b> 🔥
-</p>
+## 🌐 Connect With Me
 
+📧 Email: [yashinmithani950@gmail.com](mailto:yashinmithani950@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/yashin-mithani-7421093ab
+
+---
