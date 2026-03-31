@@ -28,3 +28,14 @@ Hey! I'm **Yashin Mithani** 👋
 * 📌 Learning advanced web development
 
 ---
+
+🚀 Featured Projects
+🔹 CRUD Array System – Perform create, read, update, delete operations
+🔹 Sorting Algorithms – DSA based sorting implementations
+🔹 Mini Projects – Practice & logic building programs
+🌐 Connect With Me
+
+---
+
+📧 Email: yashinmithani950@gmail.com
+🔗 www.linkedin.com/in/yashin-mithani-7421093ab
