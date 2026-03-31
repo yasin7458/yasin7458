@@ -1,16 +1,30 @@
-## Hi there 👋
+## 🚀 About Me
 
-<!--
-**yasin7458/yasin7458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! I'm **Yashin Mithani** 👋
 
-Here are some ideas to get you started:
+💻 I am a passionate developer who loves coding and solving problems
+🚀 Currently learning **Data Structures & Algorithms (DSA)**
+🌐 Skilled in **HTML, CSS, Bootstrap** for frontend development
+⚡ Strong foundation in **C & C++ programming**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 I enjoy building real-world projects and improving my skills every day
+🎯 My goal is to become a **Full Stack Developer**
+
+---
+
+## 🛠️ Skills
+
+* 💻 C, C++
+* 🧠 Data Structures & Algorithms
+* 🌐 HTML, CSS, Bootstrap
+* ⚙️ Git & GitHub
+
+---
+
+## 🎯 Current Focus
+
+* 📌 Improving DSA problem solving
+* 📌 Building real-world projects
+* 📌 Learning advanced web development
+
+---
