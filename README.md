@@ -37,10 +37,8 @@ System Ready...
 ---
 
 # ⚡ Philosophy
-
-> **"I don't code to complete projects.**
->
-> **I code to master problem solving."**
+"Behind every successful project is curiosity, consistency, and countless hours
+of learning. That's the mindset I bring to every line of code."
 
 ---
 
