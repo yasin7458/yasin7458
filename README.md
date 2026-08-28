@@ -484,7 +484,7 @@ PHP / Laravel
 
 <div align="center">
 
-# 💬 `FINAL TRANSMISSION`
+# 💬 `18 // FINAL TRANSMISSION`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=First%2C+solve+the+problem.;Then%2C+write+clean+code.;Then%2C+make+it+beautiful.;Then%2C+make+it+move.;Keep+building.+%F0%9F%9A%80" alt="Final typing animation"/>
 
@@ -495,6 +495,28 @@ PHP / Laravel
 <br/>
 
 `CODE • LEARN • BUILD • ANIMATE • REPEAT`
+
+</div>
+
+---
+
+# 👀 `19 // PROFILE METRICS`
+
+<div align="center">
+
+### `MY GITHUB PRESENCE`
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=yasin7458&label=PROFILE%20VIEWS&style=for-the-badge&color=00F5FF"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/yasin7458?style=for-the-badge&label=FOLLOWERS&color=6C63FF"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/yasin7458?style=for-the-badge&label=STARS&color=A855F7"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1200&color=A855F7&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile!;See+you+in+the+next+commit+%F0%9F%9A%80;Keep+coding.+Keep+building." alt="Closing animation"/>
 
 <br/><br/>
 
