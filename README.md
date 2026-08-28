@@ -1,13 +1,10 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <!--                         YASIN MITHANI • README                          -->
-
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- Animated 3D-style Hero -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,25:0099FF,50:6C63FF,75:A855F7,100:FF00FF&text=YASIN%20MITHANI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Future%20Full%20Stack%20Developer&descAlignY=60&descSize=18"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&pause=900&color=00F5FF&center=true&vCenter=true&width=950&lines=Passionate+Frontend+Developer;C+%7C+C%2B%2B+Developer;Data+Structures+%26+Algorithms+Learner;JavaScript+%7C+GSAP+%7C+Locomotive.js+%7C+Swiper.js;Building+Modern+%26+Interactive+Web+Experiences;Learning+React.js+%7C+Node.js+%7C+Express.js;Future+Full+Stack+Developer;Never+Stop+Learning+%F0%9F%9A%80" alt="Typing SVG"/>
@@ -26,8 +23,9 @@
 
 <div align="center">
 
-🖥️ SYSTEM BOOT
+## 🖥️ `SYSTEM BOOT`
 
+```text
 ╭──────────────────────────────────────────────────────────────╮
 │  > booting yasin-mithani.dev ...                            │
 │                                                              │
@@ -42,26 +40,31 @@
 │                                                              │
 │  ████████████████████████████████████████  SYSTEM READY     │
 ╰──────────────────────────────────────────────────────────────╯
+```
 
 </div>
 
-👋 Hello World, I'm Yasin
+---
+
+# 👋 Hello World, I'm Yasin
 
 <div align="center">
 
-⚡ Think. Build. Animate. Debug. Improve. Repeat.
+> ### ⚡ `Think. Build. Animate. Debug. Improve. Repeat.`
 
 </div>
 
-I'm a passionate developer who enjoys turning ideas into clean, responsive, interactive and visually engaging web experiences.
+I'm a passionate developer who enjoys turning ideas into **clean, responsive, interactive and visually engaging web experiences**.
 
-My programming journey started with C, where I built a strong foundation in programming logic. I then moved into C++, Object-Oriented Programming and Data Structures & Algorithms.
+My programming journey started with **C**, where I built a strong foundation in programming logic. I then moved into **C++**, Object-Oriented Programming and Data Structures & Algorithms.
 
-On the frontend side, I work with HTML, CSS, Bootstrap and JavaScript, and I've also explored modern animation and interaction tools such as GSAP, Locomotive.js and Swiper.js.
+On the frontend side, I work with **HTML, CSS, Bootstrap and JavaScript**, and I've also explored modern animation and interaction tools such as **GSAP, Locomotive.js and Swiper.js**.
 
 I believe that consistency beats speed. Every project, bug and new concept is another step toward becoming a stronger developer.
 
-🌌 DEVELOPER DNA
+---
+
+# 🌌 `DEVELOPER DNA`
 
 <div align="center">
 
@@ -69,30 +72,26 @@ I believe that consistency beats speed. Every project, bug and new concept is an
 <tr>
 <td align="center" width="25%">
 
-🧠
-
-LOGICAL THINKER
-
-</td>
-<td align="center" width="25%">
-
-⚡
-
-FAST LEARNER
+### 🧠
+**LOGICAL THINKER**
 
 </td>
 <td align="center" width="25%">
 
-🎯
-
-GOAL ORIENTED
+### ⚡
+**FAST LEARNER**
 
 </td>
 <td align="center" width="25%">
 
-🚀
+### 🎯
+**GOAL ORIENTED**
 
-PROJECT BUILDER
+</td>
+<td align="center" width="25%">
+
+### 🚀
+**PROJECT BUILDER**
 
 </td>
 </tr>
@@ -107,8 +106,11 @@ PROJECT BUILDER
 
 </div>
 
-🧬 MY DEVELOPER JOURNEY
+---
 
+# 🧬 `MY DEVELOPER JOURNEY`
+
+```text
                  ┌──────────────────────┐
                  │  Programming Logic   │
                  └──────────┬───────────┘
@@ -159,24 +161,27 @@ PROJECT BUILDER
                                       └──────┬───────┘
                                              ▼
                                   🚀 FULL STACK DEVELOPER
+```
 
-🛠️ TECH ARSENAL
+---
+
+# 🛠️ `TECH ARSENAL`
 
 <div align="center">
 
-💻 Programming
+### 💻 Programming
 
 <img src="https://skillicons.dev/icons?i=c,cpp,js" />
 
 <br/><br/>
 
-🌐 Frontend
+### 🌐 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 
 <br/><br/>
 
-✨ Animation & Interaction — Learned
+### ✨ Animation & Interaction — Learned
 
 <img src="https://skillicons.dev/icons?i=js" />
 
@@ -188,57 +193,45 @@ PROJECT BUILDER
 
 <br/><br/>
 
-🧰 Tools
+### 🧰 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
-🧠 CORE EXPERTISE
+---
+
+# 🧠 `CORE EXPERTISE`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-💻 Programming
+## 💻 Programming
 
-C Programming
-
-C++
-
-Object-Oriented Programming
-
-STL Basics
-
-Debugging
-
-Logic Building
-
-Problem Solving
+- C Programming
+- C++
+- Object-Oriented Programming
+- STL Basics
+- Debugging
+- Logic Building
+- Problem Solving
 
 </td>
 
 <td width="50%" valign="top">
 
-🧩 DSA
+## 🧩 DSA
 
-Arrays
-
-Strings
-
-Matrix Problems
-
-Searching
-
-Sorting
-
-Stack
-
-Queue
-
-Linked List
-
-Time Complexity
+- Arrays
+- Strings
+- Matrix Problems
+- Searching
+- Sorting
+- Stack
+- Queue
+- Linked List
+- Time Complexity
 
 </td>
 </tr>
@@ -246,117 +239,64 @@ Time Complexity
 <tr>
 <td width="50%" valign="top">
 
-🌍 Frontend
+## 🌍 Frontend
 
-HTML5
-
-CSS3
-
-Bootstrap 5
-
-Responsive Design
-
-Flexbox
-
-CSS Animations
-
-JavaScript DOM
-
-Interactive UI
+- HTML5
+- CSS3
+- Bootstrap 5
+- Responsive Design
+- Flexbox
+- CSS Animations
+- JavaScript DOM
+- Interactive UI
 
 </td>
 
 <td width="50%" valign="top">
 
-✨ Motion
+## ✨ Motion
 
-GSAP
-
-Scroll-based Animation
-
-Timeline Animation
-
-Locomotive.js
-
-Swiper.js
-
-Smooth Scrolling
-
-Interactive Components
-
-Motion-driven UI
+- GSAP
+- Scroll-based Animation
+- Timeline Animation
+- Locomotive.js
+- Swiper.js
+- Smooth Scrolling
+- Interactive Components
+- Motion-driven UI
 
 </td>
 </tr>
 </table>
 
-📊 SKILL MATRIX
+---
+
+# 📊 `SKILL MATRIX`
 
 <div align="center">
 
-Skill
-
-Status
-
-C / C++
-
-🟢 Strong Foundation
-
-DSA
-
-🟢 Active Practice
-
-HTML / CSS
-
-🟢 Comfortable
-
-Bootstrap
-
-🟢 Comfortable
-
-JavaScript
-
-🟡 Advancing
-
-GSAP
-
-🟢 Learned
-
-Locomotive.js
-
-🟢 Learned
-
-Swiper.js
-
-🟢 Learned
-
-React.js
-
-🟡 Learning
-
-Node.js
-
-🔵 Learning Goal
-
-Express.js
-
-🔵 Learning Goal
-
-MongoDB
-
-🔵 Learning Goal
-
-PHP
-
-🔵 Learning Goal
-
-Laravel
-
-🔵 Learning Goal
+| Skill | Status |
+| :--- | :---: |
+| C / C++ | 🟢 Strong Foundation |
+| DSA | 🟢 Active Practice |
+| HTML / CSS | 🟢 Comfortable |
+| Bootstrap | 🟢 Comfortable |
+| JavaScript | 🟡 Advancing |
+| GSAP | 🟢 Learned |
+| Locomotive.js | 🟢 Learned |
+| Swiper.js | 🟢 Learned |
+| React.js | 🟡 Learning |
+| Node.js | 🔵 Learning Goal |
+| Express.js | 🔵 Learning Goal |
+| MongoDB | 🔵 Learning Goal |
+| PHP | 🔵 Learning Goal |
+| Laravel | 🔵 Learning Goal |
 
 </div>
 
-🔥 CURRENTLY LEARNING
+---
+
+# 🔥 `CURRENTLY LEARNING`
 
 <div align="center">
 
@@ -367,40 +307,38 @@ Laravel
 
 </div>
 
+```text
 JavaScript Advanced       ███████████████████████░░░░░  75%
 Data Structures           █████████████████████░░░░░░░  70%
 React.js                  █████████████░░░░░░░░░░░░░░  45%
 Backend Development       █████████░░░░░░░░░░░░░░░░░░  30%
+```
 
-🎯 LEARNING GOALS
+---
 
-These are the technologies I want to master next and integrate into real-world applications.
+# 🎯 `LEARNING GOALS`
+
+> These are the technologies I want to master next and integrate into real-world applications.
 
 <div align="center">
 
-⚛️ React.js
+### ⚛️ React.js
+**Component Architecture • Hooks • State Management • APIs**
 
-Component Architecture • Hooks • State Management • APIs
+### 🟢 Node.js
+**Server-side JavaScript • REST APIs • Backend Architecture**
 
-🟢 Node.js
+### 🚂 Express.js
+**Routing • Middleware • REST API Development**
 
-Server-side JavaScript • REST APIs • Backend Architecture
+### 🍃 MongoDB
+**NoSQL • Database Design • CRUD • Data Modeling**
 
-🚂 Express.js
+### 🐘 PHP
+**Backend Fundamentals • Server-side Development**
 
-Routing • Middleware • REST API Development
-
-🍃 MongoDB
-
-NoSQL • Database Design • CRUD • Data Modeling
-
-🐘 PHP
-
-Backend Fundamentals • Server-side Development
-
-🔥 Laravel
-
-MVC • Authentication • APIs • Scalable Backend Applications
+### 🔥 Laravel
+**MVC • Authentication • APIs • Scalable Backend Applications**
 
 <br/>
 
@@ -408,7 +346,9 @@ MVC • Authentication • APIs • Scalable Backend Applications
 
 </div>
 
-🚀 WHAT I BUILD
+---
+
+# 🚀 `WHAT I BUILD`
 
 <div align="center">
 
@@ -416,20 +356,20 @@ MVC • Authentication • APIs • Scalable Backend Applications
 <tr>
 <td align="center" width="50%">
 
-🧠 DSA Practice Hub
+## 🧠 DSA Practice Hub
 
-Train the logic. Understand the problem. Write the solution.
+**Train the logic. Understand the problem. Write the solution.**
 
-C • C++
+`C` • `C++`
 
 </td>
 <td align="center" width="50%">
 
-🌐 Frontend Projects
+## 🌐 Frontend Projects
 
-Responsive interfaces with modern interactions and animation.
+**Responsive interfaces with modern interactions and animation.**
 
-HTML • CSS • Bootstrap • JavaScript
+`HTML` • `CSS` • `Bootstrap` • `JavaScript`
 
 </td>
 </tr>
@@ -437,75 +377,43 @@ HTML • CSS • Bootstrap • JavaScript
 
 </div>
 
-✨ Project Ideas & Builds
+### ✨ Project Ideas & Builds
 
-🔐 Authentication UI
+- 🔐 Authentication UI
+- 🔑 Login / Registration System
+- 📱 OTP Verification
+- 🧠 Quiz Application
+- 🖼️ Image Slider
+- ⏱️ Stopwatch
+- 🕐 Digital Clock
+- ⌨️ Typing Test
+- 📝 CRUD System
+- 🎨 Animated Landing Pages
+- 🌀 GSAP Interaction Experiments
+- 📜 Smooth Scroll Experiences
 
-🔑 Login / Registration System
+---
 
-📱 OTP Verification
-
-🧠 Quiz Application
-
-🖼️ Image Slider
-
-⏱️ Stopwatch
-
-🕐 Digital Clock
-
-⌨️ Typing Test
-
-📝 CRUD System
-
-🎨 Animated Landing Pages
-
-🌀 GSAP Interaction Experiments
-
-📜 Smooth Scroll Experiences
-
-🏆 ACHIEVEMENTS
+# 🏆 `ACHIEVEMENTS`
 
 <div align="center">
 
-🏅
-
-Achievement
-
-01
-
-Strong foundation in C programming
-
-02
-
-Object-Oriented Programming with C++
-
-03
-
-Active Data Structures & Algorithms journey
-
-04
-
-Multiple responsive frontend projects
-
-05
-
-GSAP animation & interaction practice
-
-06
-
-Locomotive.js & Swiper.js experience
-
-07
-
-Git & GitHub version control
-
-08
-
-Continuous learning mindset
+| 🏅 | Achievement |
+| :---: | :--- |
+| 01 | Strong foundation in C programming |
+| 02 | Object-Oriented Programming with C++ |
+| 03 | Active Data Structures & Algorithms journey |
+| 04 | Multiple responsive frontend projects |
+| 05 | GSAP animation & interaction practice |
+| 06 | Locomotive.js & Swiper.js experience |
+| 07 | Git & GitHub version control |
+| 08 | Continuous learning mindset |
 
 </div>
 
-📈 GITHUB ANALYTICS
+---
+
+# 📈 `GITHUB ANALYTICS`
 
 <div align="center">
 
@@ -523,7 +431,9 @@ Continuous learning mindset
 
 </div>
 
-🏅 GITHUB TROPHIES
+---
+
+# 🏅 `GITHUB TROPHIES`
 
 <div align="center">
 
@@ -531,7 +441,9 @@ Continuous learning mindset
 
 </div>
 
-🐍 CONTRIBUTION SNAKE
+---
+
+# 🐍 `CONTRIBUTION SNAKE`
 
 <div align="center">
 
@@ -539,8 +451,11 @@ Continuous learning mindset
 
 </div>
 
-🎯 2026 MISSION
+---
 
+# 🎯 `2026 MISSION`
+
+```text
 ╭─────────────────────────────────────────────────────────────╮
 │                                                             │
 │  🎯 Solve 500+ DSA Problems                                │
@@ -564,27 +479,32 @@ Continuous learning mindset
 │  🎯 Become Industry Ready                                  │
 │                                                             │
 ╰─────────────────────────────────────────────────────────────╯
+```
 
-💎 DEVELOPMENT PHILOSOPHY
+---
+
+# 💎 `DEVELOPMENT PHILOSOPHY`
 
 <div align="center">
 
-"Great software begins with great logic."
+### **"Great software begins with great logic."**
 
 <br/>
 
-THINK ➜ PLAN ➜ BUILD ➜ DEBUG ➜ IMPROVE ➜ REPEAT
+`THINK` ➜ `PLAN` ➜ `BUILD` ➜ `DEBUG` ➜ `IMPROVE` ➜ `REPEAT`
 
 <br/>
 
-Consistency over motivation.
-Understanding over memorization.
-Quality over quantity.
-Progress over perfection.
+> **Consistency over motivation.**  
+> **Understanding over memorization.**  
+> **Quality over quantity.**  
+> **Progress over perfection.**
 
 </div>
 
-🌍 LET'S CONNECT
+---
+
+# 🌍 `LET'S CONNECT`
 
 <div align="center">
 
@@ -602,18 +522,22 @@ Progress over perfection.
 
 </div>
 
-💬 DEVELOPER QUOTE
+---
+
+# 💬 `DEVELOPER QUOTE`
 
 <div align="center">
 
-🧩
+### 🧩
 
-"First, solve the problem.
-Then, write clean and maintainable code."
+> **"First, solve the problem.**  
+> **Then, write clean and maintainable code."**
 
 </div>
 
-👀 WHAT YOU'LL FIND HERE
+---
+
+# 👀 `WHAT YOU'LL FIND HERE`
 
 <div align="center">
 
@@ -626,7 +550,9 @@ Then, write clean and maintainable code."
 
 </div>
 
-☕ THANKS FOR VISITING
+---
+
+# ☕ `THANKS FOR VISITING`
 
 <div align="center">
 
@@ -634,11 +560,11 @@ Then, write clean and maintainable code."
 
 <br/>
 
-⭐ If you like my work, consider giving a ⭐ to my repositories.
+⭐ **If you like my work, consider giving a ⭐ to my repositories.**
 
 <br/>
 
-"Every project is another step toward becoming a better software engineer."
+*"Every project is another step toward becoming a better software engineer."*
 
 </div>
 
