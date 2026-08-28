@@ -1,297 +1,303 @@
 <div align="center">
 
-👋 Hi, I'm Yasin Mithani
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=YASIN%20MITHANI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20Learner%20%7C%20DSA%20Enthusiast&descAlignY=60&animation=fadeIn&color=gradient" width="100%"/>
 
-Frontend Developer • JavaScript Learner • React Developer • DSA Learner • Future Full Stack Developer
+👋 Hey, I'm Yasin Mithani
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=00F5FF&center=true&vCenter=true&width=850&lines=Frontend+Developer;React.js+Developer;JavaScript+Learner;DSA+Learner;Building+Real+World+Projects;Future+Full+Stack+Developer;Never+Stop+Learning+🚀" alt="Typing SVG"/>
+💻 Frontend Developer | ⚛️ React.js Learner | 🧠 DSA Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=6C63FF&center=true&vCenter=true&width=750&lines=Building+Responsive+Web+Experiences;Learning+React.js+Through+Projects;Strengthening+JavaScript+%26+DSA;Turning+Ideas+Into+Code;Future+Full+Stack+Developer+🚀" alt="Typing Animation"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=yasin7458&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=yasin7458&label=PROFILE+VIEWS&style=for-the-badge&color=6C63FF" alt="Profile views"/>
+&nbsp;
+<a href="https://github.com/yasin7458?tab=followers">
+<img src="https://img.shields.io/github/followers/yasin7458?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers"/>
+</a>
+&nbsp;
+<a href="https://github.com/yasin7458?tab=repositories">
+<img src="https://img.shields.io/github/stars/yasin7458?style=for-the-badge&logo=github&label=STARS" alt="Stars"/>
+</a>
 
 </div>
 
-🚀 About Me
+🧑‍💻 Who Am I?
 
-I'm a passionate developer who enjoys turning ideas into clean, responsive and interactive web experiences.
+<table>
+<tr>
+<td width="55%">
 
-My development journey started with programming fundamentals and gradually moved into C, C++, DSA, HTML, CSS, Bootstrap and JavaScript. I'm now working with React.js and continuing to strengthen my JavaScript and frontend development skills.
+🚀 A Developer Who Loves To Build
 
-I enjoy learning by building projects rather than only studying theory. My current goal is to become a strong Full Stack Developer by improving both frontend and backend development step by step.
+I'm a passionate developer focused on frontend development, JavaScript, React.js and problem solving.
 
-💡 Learn → Build → Debug → Improve → Repeat
+I started my programming journey with C and C++, which helped me build a strong foundation in programming logic and Object-Oriented Programming.
 
-🧑‍💻 My Current Profile
+Then I moved into HTML, CSS, Bootstrap and JavaScript, where I started creating responsive and interactive web projects.
 
-╭──────────────────────────────────────────────╮
-│              DEVELOPER PROFILE               │
-├──────────────────────────────────────────────┤
-│ 👨‍💻 Role       : Frontend Developer          │
-│ 🌐 Focus      : Web Development              │
-│ ⚛ Current     : React.js                     │
-│ 🟨 Strong Base : JavaScript                   │
-│ 🧠 Practice   : Data Structures & Algorithms │
-│ 🛠 UI Stack   : HTML • CSS • Bootstrap        │
-│ 🔧 Tools      : Git • GitHub • VS Code        │
-│ 🎯 Goal       : Full Stack Development        │
-╰──────────────────────────────────────────────╯
+Now I'm taking the next step with React.js and working toward becoming a Full Stack Developer.
 
-🛠️ Tech Stack
+</td>
+
+<td width="45%">
+
+╭────────────────────────────╮
+│     ⚡ YASIN MITHANI       │
+├────────────────────────────┤
+│ 💻 Frontend Developer      │
+│ ⚛️ React.js Learner        │
+│ 🟨 JavaScript Learner      │
+│ 🧠 DSA Enthusiast          │
+│ 🛠️ Project Builder         │
+│ 🚀 Future Full Stack Dev   │
+│ 📍 Gujarat, India          │
+╰────────────────────────────╯
+
+</td>
+</tr>
+</table>
+
+🧰 My Tech Stack
 
 <div align="center">
 
-💻 Programming & Core
+💻 Programming
 
-<img src="https://skillicons.dev/icons?i=c,cpp" alt="C C++"/>
+<img src="https://skillicons.dev/icons?i=c,cpp" height="55"/>
 
 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" alt="HTML CSS Bootstrap JavaScript React"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" height="55"/>
 
 🔧 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="55"/>
 
 </div>
 
 🧠 What I Know
 
-Area
+<div align="center">
 
-Skills
+🧩 Programming
 
-Programming
+🌐 Frontend
 
-C, C++, OOP, STL Basics, Logic Building, Debugging
+🛠️ Development
 
-DSA
+C
 
-Arrays, Strings, Matrix Problems, Searching, Sorting, Stack, Queue, Linked List, Time Complexity Fundamentals
+HTML5
 
-Frontend
+Git
 
-HTML5, CSS3, Bootstrap 5, Responsive Design, Flexbox, CSS Animations, JavaScript DOM
+C++
 
-JavaScript
+CSS3
 
-ES6+ concepts, DOM manipulation, events, interactive UI development
+GitHub
 
-React
+OOP
 
-React.js fundamentals, components, JSX, props, state, basic hooks, project structure
+Bootstrap 5
 
-Development Tools
+VS Code
 
-Git, GitHub, VS Code, folder structure, project organization, version control
+STL Basics
 
-📚 Currently Learning
+Responsive Design
 
-I'm actively improving these skills right now:
+Version Control
 
-⚛ React.js
-████████████████████░░░░░░░░░░  Learning & Building
+Logic Building
 
-🟨 Advanced JavaScript
-██████████████████████░░░░░░░░  Improving
+Flexbox
 
-🧠 Data Structures & Algorithms
-██████████████████░░░░░░░░░░░░  Practicing
+Project Organization
 
-🚀 Full Stack Development
-████████░░░░░░░░░░░░░░░░░░░░░░  Next Goal
+Debugging
 
-Progress percentages are intentionally not treated as fixed numbers — I'm continuously learning and improving through projects.
+CSS Animations
 
-🗺️ My Learning Journey
+Clean Folder Structure
 
-Programming Fundamentals
-          ↓
-         C
-          ↓
-        C++
-          ↓
-Object-Oriented Programming
-          ↓
-     Data Structures
-          ↓
-       Algorithms
-          ↓
-        HTML
-          ↓
-         CSS
-          ↓
-      Bootstrap
-          ↓
-     JavaScript
-          ↓
-       React.js
-          ↓
-   Backend Development
-          ↓
-  🚀 Full Stack Developer
 
-💎 Projects I've Built
 
-🌐 Frontend Projects
+JavaScript DOM
 
-I've worked on different frontend projects to practice UI development, JavaScript logic and real-world interaction.
 
-🔐 Authentication UI
 
-🔑 Login System
+</div>
 
-📱 OTP Verification
+🧠 DSA Practice
 
-🧠 Quiz Application
+Arrays • Strings • Matrix • Searching • Sorting • Stack • Queue • Linked List • Time Complexity
 
-🖼️ Image Slider
-
-⏱️ Stopwatch
-
-🕐 Digital Clock
-
-⌨️ Typing Test
-
-📝 CRUD System
-
-🎨 Responsive UI Designs
-
-💼 Personal Portfolio Website
-
-Main Stack: HTML • CSS • Bootstrap • JavaScript • React.js
-
-🧠 DSA & Programming Practice
-
-Arrays
-
-Strings
-
-Matrix Problems
-
-Searching Algorithms
-
-Sorting Algorithms
-
-Stack
-
-Queue
-
-Linked List
-
-C / C++ problem solving
-
-Object-Oriented Programming
-
-🎨 Portfolio Project
-
-One of my current frontend projects is a single-page developer portfolio built with React and Bootstrap.
-
-✨ Project Focus
-
-Responsive layout
-
-Reusable React components
-
-Bootstrap grid and utilities
-
-Custom CSS styling
-
-Interactive UI
-
-Portfolio sections
-
-Services section
-
-About section
-
-Experience section
-
-Project showcase
-
-Contact section
-
-Responsive navigation
-
-The project is focused on turning a complete design into a clean, component-based React application.
-
-⚡ Development Mindset
-
-       THINK
-         ↓
-       PLAN
-         ↓
-       BUILD
-         ↓
-       DEBUG
-         ↓
-      IMPROVE
-         ↓
-       REPEAT
-
-I Believe In
-
-🧹 Writing clean and understandable code
-
-🧠 Understanding concepts instead of memorizing syntax
-
-🚀 Learning through real projects
-
-🐛 Debugging and learning from mistakes
-
-📚 Improving consistently
-
-🎯 Focusing on fundamentals
-
-💻 Building practical applications
-
-🔥 Never giving up when something doesn't work
-
-🎯 2026 Goals
-
-⚛ Improve React.js
-
-🟨 Master advanced JavaScript
-
-🧠 Strengthen DSA problem solving
-
-🌐 Build more responsive web applications
-
-🚀 Learn backend development
-
-🗄️ Learn MongoDB
-
-🔗 Learn Node.js and Express.js
-
-💼 Build full-stack applications
-
-🤝 Contribute to open source
-
-🎯 Become job ready
-
-🔭 What's Next?
-
-React.js
-   ↓
-Advanced JavaScript
-   ↓
-Node.js
-   ↓
-Express.js
-   ↓
-MongoDB
-   ↓
-Full Stack Projects
-   ↓
-🚀 Full Stack Developer
-
-📊 GitHub Profile
+⚛️ React.js Journey
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yasin7458&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+HTML + CSS + Bootstrap
+          │
+          ▼
+      JavaScript
+          │
+          ▼
+     ┌─────────┐
+     │ React.js│  ← CURRENT FOCUS
+     └─────────┘
+          │
+          ▼
+    Real Projects
+          │
+          ▼
+   Full Stack Journey 🚀
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin7458&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+I'm currently using React.js to understand component-based development and to turn the frontend projects I already build into reusable React applications.
+
+📚 Currently Learning
+
+<div align="center">
+
+Skill
+
+Status
+
+⚛️ React.js
+
+🟡 Learning
+
+🟨 Advanced JavaScript
+
+🟡 Improving
+
+🧠 Data Structures & Algorithms
+
+🟡 Practicing
+
+🎨 Responsive UI Development
+
+🟢 Building
+
+🚀 Full Stack Development
+
+🔜 Next Stage
+
+</div>
+
+My learning approach: I learn a concept → build something with it → debug it → improve it.
+
+🔥 Things I've Built
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">🔐<br/><b>Authentication UI</b></td>
+<td align="center">🔑<br/><b>Login System</b></td>
+<td align="center">📱<br/><b>OTP Verification</b></td>
+</tr>
+<tr>
+<td align="center">🧠<br/><b>Quiz Application</b></td>
+<td align="center">🖼️<br/><b>Image Slider</b></td>
+<td align="center">⏱️<br/><b>Stopwatch</b></td>
+</tr>
+<tr>
+<td align="center">🕐<br/><b>Digital Clock</b></td>
+<td align="center">⌨️<br/><b>Typing Test</b></td>
+<td align="center">📝<br/><b>CRUD System</b></td>
+</tr>
+</table>
+
+</div>
+
+🎨 Current Portfolio Project
+
+I'm building a single-page portfolio in React + Bootstrap, with reusable sections such as:
+
+Header • Home • About • Experience • Services • Portfolio • Contact • Footer
+
+The focus is on responsive layouts, reusable components, Bootstrap utilities, custom CSS and interactive frontend experiences.
+
+🗺️ My Developer Roadmap
+
+              ┌──────────────────────┐
+              │ Programming Logic   │
+              └──────────┬───────────┘
+                         ↓
+                ┌────────────────┐
+                │ C → C++ → OOP  │
+                └───────┬────────┘
+                        ↓
+              ┌────────────────────┐
+              │ DSA & Problem Solving │
+              └─────────┬──────────┘
+                        ↓
+          ┌────────────────────────────┐
+          │ HTML → CSS → Bootstrap     │
+          └─────────────┬──────────────┘
+                        ↓
+                ┌──────────────┐
+                │ JavaScript   │
+                └──────┬───────┘
+                       ↓
+                ┌──────────────┐
+                │  React.js ⚛️ │
+                └──────┬───────┘
+                       ↓
+              ┌──────────────────┐
+              │ Backend Learning │
+              └────────┬─────────┘
+                       ↓
+              🚀 FULL STACK DEV
+
+🎯 2026 Mission
+
+<div align="center">
+
+BUILD → LEARN → IMPROVE → REPEAT
+
+</div>
+
+⚛️ Become stronger with React.js
+
+🟨 Improve Advanced JavaScript
+
+🧠 Strengthen DSA and problem solving
+
+🎨 Build more professional frontend projects
+
+🟢 Improve Git & GitHub workflow
+
+🌐 Start backend development
+
+🚀 Build full-stack applications
+
+💼 Become job ready
+
+💡 My Development Philosophy
+
+<table>
+<tr>
+<td align="center">🧠<br/><b>Understand</b><br/>Don't just memorize.</td>
+<td align="center">💻<br/><b>Build</b><br/>Learn by creating.</td>
+<td align="center">🐛<br/><b>Debug</b><br/>Mistakes teach.</td>
+<td align="center">🚀<br/><b>Improve</b><br/>Get better every day.</td>
+</tr>
+</table>
+
+"Consistency beats motivation."
+
+📊 GitHub Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yasin7458&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="175" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin7458&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -303,15 +309,15 @@ Full Stack Projects
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yasin7458&theme=algolia&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yasin7458&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
 
-📈 Contribution Graph
+📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasin7458&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasin7458&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
 
 </div>
 
@@ -319,54 +325,52 @@ Full Stack Projects
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake"/>
 
 </div>
 
-🌟 What You'll Find On My GitHub
+🌟 What You'll Find Here
 
-💻 Frontend Projects
-⚛ React.js Projects
-🟨 JavaScript Practice
-🧠 DSA Practice
-🎨 Responsive UI Designs
-🧪 Coding Experiments
-📚 Learning Projects
-🔧 Git & GitHub Practice
-🚀 Continuous Improvements
+┌──────────────────────────────────────────────┐
+│              YASIN'S GITHUB                  │
+├──────────────────────────────────────────────┤
+│ 💻 Frontend Development                      │
+│ ⚛️ React.js Learning & Projects              │
+│ 🟨 JavaScript Practice                       │
+│ 🧠 DSA & Problem Solving                     │
+│ 🎨 Responsive UI Designs                     │
+│ 🧪 Coding Experiments                        │
+│ 🚀 Real World Projects                       │
+│ 🔧 Git & GitHub Practice                     │
+│ 📚 Continuous Learning                       │
+└──────────────────────────────────────────────┘
 
 🤝 Let's Connect
 
 <div align="center">
 
 <a href="mailto:yashinmithani950@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yashin-mithani-7421093ab">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/yasin7458">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
 
-💬 Developer Quote
-
 <div align="center">
 
-"First, solve the problem. Then, write clean and maintainable code."
-
-</div>
-
-<div align="center">
+💜 Thanks for visiting my profile!
 
 🚀 Code. Learn. Build. Improve. Repeat.
 
-Thanks for visiting my profile! ❤️
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F5FF,50:6C63FF,100:FF00FF" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient" width="100%"/>
 
 </div>
