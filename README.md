@@ -1,548 +1,595 @@
-<!-- ========================= -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!--        HERO BANNER        -->
+<!--                         YASIN MITHANI • README                          -->
 
-<!-- ========================= -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,25:0099FF,50:6C63FF,75:A855F7,100:FF00FF&text=Yasin%20Mithani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Future%20Full%20Stack%20Developer&descAlignY=58"/>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-👋 Hello World, I'm Yasin Mithani
+<!-- Animated 3D-style Hero -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=00F5FF&center=true&vCenter=true&width=850&lines=Passionate+Frontend+Developer;Problem+Solver;C+%7C+C%2B%2B+Developer;Data+Structures+%26+Algorithms+Learner;Building+Projects+Every+Day;Future+Full+Stack+Developer;Never+Stop+Learning+🚀"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,25:0099FF,50:6C63FF,75:A855F7,100:FF00FF&text=YASIN%20MITHANI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Future%20Full%20Stack%20Developer&descAlignY=60&descSize=18"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&pause=900&color=00F5FF&center=true&vCenter=true&width=950&lines=Passionate+Frontend+Developer;C+%7C+C%2B%2B+Developer;Data+Structures+%26+Algorithms+Learner;JavaScript+%7C+GSAP+%7C+Locomotive.js+%7C+Swiper.js;Building+Modern+%26+Interactive+Web+Experiences;Learning+React.js+%7C+Node.js+%7C+Express.js;Future+Full+Stack+Developer;Never+Stop+Learning+%F0%9F%9A%80" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=yasin7458&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/yasin7458?label=FOLLOWERS&style=for-the-badge&color=00F5FF" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/yasin7458?label=STARS&style=for-the-badge&color=A855F7" alt="Stars"/>
 
 </div>
 
-💻 Terminal
+<br/>
 
-> booting developer profile...
-
-✔ Name            : Yasin Mithani
-✔ Location        : Gujarat, India
-✔ Programming     : C | C++
-✔ Frontend        : HTML | CSS | Bootstrap | JavaScript
-✔ Focus           : Data Structures & Algorithms
-✔ Status          : Building Real World Projects
-✔ Goal            : Become a Full Stack Developer
-
-System Ready...
-
-⚡ Philosophy
-
-"Behind every successful project is curiosity, consistency, and countless hours
-of learning. That's the mindset I bring to every line of code."
-
-🚀 About Me
-
-I'm a passionate developer who enjoys transforming ideas into clean, responsive and efficient applications.
-
-My programming journey began with C, where I built a strong foundation in programming logic. From there, I explored C++, Object-Oriented Programming, and gradually developed a deep interest in Data Structures & Algorithms.
-
-Alongside problem solving, I enjoy creating modern and responsive user interfaces using HTML, CSS, Bootstrap, and JavaScript.
-
-I believe consistency is more valuable than speed. Every project I complete teaches me something new, helping me become a stronger developer every day.
-
-🌟 What Defines Me
-
-🧠 Logical Thinker
-
-💻 Clean Code Writer
-
-🚀 Fast Learner
-
-🎯 Goal Oriented
-
-📚 Lifelong Learner
-
-⚡ Project Builder
-
-❤️ Passionate Developer
-
-🔥 Never Give Up
-
-🛠 Current Mission
-
-✓ Master Data Structures
-
-✓ Improve Algorithmic Thinking
-
-✓ Build Advanced JavaScript Projects
-
-✓ Learn React.js
-
-✓ Explore Backend Development
-
-✓ Become Industry Ready
-
-✓ Build Scalable Applications
-
-📌 Developer Journey
-
-Programming Logic
-        │
-        ▼
-C Programming
-        │
-        ▼
-C++
-        │
-        ▼
-Object-Oriented Programming
-        │
-        ▼
-Data Structures
-        │
-        ▼
-Algorithms
-        │
-        ▼
-HTML
-        │
-        ▼
-CSS
-        │
-        ▼
-Bootstrap
-        │
-        ▼
-JavaScript
-        │
-        ▼
-React.js
-        │
-        ▼
-Node.js
-        │
-        ▼
-Express.js
-        │
-        ▼
-MongoDB
-        │
-        ▼
-🚀 Full Stack Developer
+<!-- ═══════════════════════════════ TERMINAL ═══════════════════════════════ -->
 
 <div align="center">
 
-⭐ "Great Software Begins With Great Logic."
+🖥️ SYSTEM BOOT
 
-⚙️ Tech Arsenal
-
-<div align="center">
-
-💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,js" />
-</p>
-
-🌐 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
-</p>
-
-🛠 Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+╭──────────────────────────────────────────────────────────────╮
+│  > booting yasin-mithani.dev ...                            │
+│                                                              │
+│  ✔ Developer      : Yasin Mithani                           │
+│  ✔ Location       : Gujarat, India                          │
+│  ✔ Programming    : C | C++                                 │
+│  ✔ Frontend       : HTML | CSS | Bootstrap | JavaScript     │
+│  ✔ Animation      : GSAP | Locomotive.js | Swiper.js        │
+│  ✔ Focus          : DSA + Interactive Web Development       │
+│  ✔ Current Mode   : BUILDING REAL WORLD PROJECTS            │
+│  ✔ Mission        : FULL STACK DEVELOPMENT                  │
+│                                                              │
+│  ████████████████████████████████████████  SYSTEM READY     │
+╰──────────────────────────────────────────────────────────────╯
 
 </div>
 
-🧠 Core Expertise
+👋 Hello World, I'm Yasin
+
+<div align="center">
+
+⚡ Think. Build. Animate. Debug. Improve. Repeat.
+
+</div>
+
+I'm a passionate developer who enjoys turning ideas into clean, responsive, interactive and visually engaging web experiences.
+
+My programming journey started with C, where I built a strong foundation in programming logic. I then moved into C++, Object-Oriented Programming and Data Structures & Algorithms.
+
+On the frontend side, I work with HTML, CSS, Bootstrap and JavaScript, and I've also explored modern animation and interaction tools such as GSAP, Locomotive.js and Swiper.js.
+
+I believe that consistency beats speed. Every project, bug and new concept is another step toward becoming a stronger developer.
+
+🌌 DEVELOPER DNA
+
+<div align="center">
 
 <table>
-
 <tr>
+<td align="center" width="25%">
 
-<td width="50%">
+🧠
+
+LOGICAL THINKER
+
+</td>
+<td align="center" width="25%">
+
+⚡
+
+FAST LEARNER
+
+</td>
+<td align="center" width="25%">
+
+🎯
+
+GOAL ORIENTED
+
+</td>
+<td align="center" width="25%">
+
+🚀
+
+PROJECT BUILDER
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Clean_Code-673AB7?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem_Solving-0099FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Creative_UI-FF00FF?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Never_Stop_Learning-00F5FF?style=for-the-badge&logo=rocket&logoColor=black"/>
+
+</div>
+
+🧬 MY DEVELOPER JOURNEY
+
+                 ┌──────────────────────┐
+                 │  Programming Logic   │
+                 └──────────┬───────────┘
+                            ▼
+                 ┌──────────────────────┐
+                 │     C Programming    │
+                 └──────────┬───────────┘
+                            ▼
+                 ┌──────────────────────┐
+                 │        C++           │
+                 └──────────┬───────────┘
+                            ▼
+                 ┌──────────────────────┐
+                 │ Object-Oriented Prog │
+                 └──────────┬───────────┘
+                            ▼
+                 ┌──────────────────────┐
+                 │   Data Structures    │
+                 └──────────┬───────────┘
+                            ▼
+                 ┌──────────────────────┐
+                 │      Algorithms      │
+                 └──────────┬───────────┘
+                            ▼
+        ┌───────────────────┴───────────────────┐
+        ▼                                       ▼
+┌───────────────┐                       ┌────────────────┐
+│ HTML / CSS    │                       │ JavaScript     │
+│ Bootstrap     │──────────────────────▶│ DOM / Logic    │
+└───────────────┘                       └───────┬────────┘
+                                               ▼
+                                    ┌────────────────────┐
+                                    │ GSAP               │
+                                    │ Locomotive.js      │
+                                    │ Swiper.js          │
+                                    └─────────┬──────────┘
+                                              ▼
+                                      ┌───────────────┐
+                                      │   REACT.JS    │
+                                      └───────┬───────┘
+                                              ▼
+                                   ┌────────────────────┐
+                                   │ NODE / EXPRESS     │
+                                   └─────────┬──────────┘
+                                             ▼
+                                      ┌──────────────┐
+                                      │   MONGODB    │
+                                      └──────┬───────┘
+                                             ▼
+                                  🚀 FULL STACK DEVELOPER
+
+🛠️ TECH ARSENAL
+
+<div align="center">
 
 💻 Programming
 
-✔ C Programming
+<img src="https://skillicons.dev/icons?i=c,cpp,js" />
 
-✔ C++
+<br/><br/>
 
-✔ Object-Oriented Programming
+🌐 Frontend
 
-✔ STL Basics
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 
-✔ Debugging
+<br/><br/>
 
-✔ Logic Building
+✨ Animation & Interaction — Learned
 
-</td>
+<img src="https://skillicons.dev/icons?i=js" />
 
-<td width="50%">
+<br/>
 
-🧩 Problem Solving
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Locomotive.js-111111?style=for-the-badge&logo=javascript&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Swiper.js-6332F6?style=for-the-badge&logo=swiper&logoColor=white"/>
 
-✔ Arrays
+<br/><br/>
 
-✔ Strings
+🧰 Tools
 
-✔ Matrix Problems
-
-✔ Searching Algorithms
-
-✔ Sorting Algorithms
-
-✔ Basic DSA
-
-✔ Time Complexity Fundamentals
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-🌍 Frontend
-
-✔ HTML5
-
-✔ CSS3
-
-✔ Bootstrap 5
-
-✔ Responsive Design
-
-✔ Flexbox
-
-✔ CSS Animations
-
-✔ JavaScript DOM
-
-</td>
-
-<td>
-
-⚙ Development
-
-✔ Git
-
-✔ GitHub
-
-✔ VS Code
-
-✔ Clean Folder Structure
-
-✔ Project Organization
-
-✔ Version Control
-
-</td>
-
-</tr>
-
-</table>
-
-🚀 Currently Learning
-
-███████████████████████░░░░░░░  75%
-
-✔ Advanced JavaScript
-
-███████████████████░░░░░░░░░░░  65%
-
-✔ Data Structures & Algorithms
-
-███████████████░░░░░░░░░░░░░░░  55%
-
-✔ React.js
-
-████████░░░░░░░░░░░░░░░░░░░░░░  30%
-
-✔ Backend Development
-
-██████░░░░░░░░░░░░░░░░░░░░░░░░  20%
-
-✔ MongoDB
-
-📚 Learning Path
-
-✅ Programming Fundamentals
-
-        ↓
-
-✅ C Programming
-
-        ↓
-
-✅ C++
-
-        ↓
-
-✅ Object-Oriented Programming
-
-        ↓
-
-✅ Data Structures
-
-        ↓
-
-✅ Algorithms
-
-        ↓
-
-✅ HTML
-
-        ↓
-
-✅ CSS
-
-        ↓
-
-✅ Bootstrap
-
-        ↓
-
-🟡 JavaScript (Advanced)
-
-        ↓
-
-🔜 React.js
-
-        ↓
-
-🔜 Node.js
-
-        ↓
-
-🔜 Express.js
-
-        ↓
-
-🔜 MongoDB
-
-        ↓
-
-🎯 Full Stack Development
-
-🎯 Development Principles
-
-I Believe In
-
-✔ Writing Clean Code
-
-✔ Building Real Projects
-
-✔ Solving Problems Before Searching Solutions
-
-✔ Understanding Concepts Instead Of Memorizing
-
-✔ Learning Something New Every Day
-
-✔ Consistency Over Motivation
-
-✔ Code Quality Over Code Quantity
-
-✔ Continuous Improvement
-
-💡 What I'm Looking For
-
-🚀 Open Source Contributions
-
-💻 Frontend Development Opportunities
-
-🧠 Challenging DSA Problems
-
-🤝 Collaboration With Developers
-
-🌱 Continuous Learning
-
-⚡ Building Better Software
-
-<div align="center">
-
-💎 "Code. Learn. Improve. Repeat."
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
-🚀 Featured Projects
+🧠 CORE EXPERTISE
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+💻 Programming
+
+C Programming
+
+C++
+
+Object-Oriented Programming
+
+STL Basics
+
+Debugging
+
+Logic Building
+
+Problem Solving
+
+</td>
+
+<td width="50%" valign="top">
+
+🧩 DSA
+
+Arrays
+
+Strings
+
+Matrix Problems
+
+Searching
+
+Sorting
+
+Stack
+
+Queue
+
+Linked List
+
+Time Complexity
+
+</td>
+</tr>
 
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+🌍 Frontend
+
+HTML5
+
+CSS3
+
+Bootstrap 5
+
+Responsive Design
+
+Flexbox
+
+CSS Animations
+
+JavaScript DOM
+
+Interactive UI
+
+</td>
+
+<td width="50%" valign="top">
+
+✨ Motion
+
+GSAP
+
+Scroll-based Animation
+
+Timeline Animation
+
+Locomotive.js
+
+Swiper.js
+
+Smooth Scrolling
+
+Interactive Components
+
+Motion-driven UI
+
+</td>
+</tr>
+</table>
+
+📊 SKILL MATRIX
+
+<div align="center">
+
+Skill
+
+Status
+
+C / C++
+
+🟢 Strong Foundation
+
+DSA
+
+🟢 Active Practice
+
+HTML / CSS
+
+🟢 Comfortable
+
+Bootstrap
+
+🟢 Comfortable
+
+JavaScript
+
+🟡 Advancing
+
+GSAP
+
+🟢 Learned
+
+Locomotive.js
+
+🟢 Learned
+
+Swiper.js
+
+🟢 Learned
+
+React.js
+
+🟡 Learning
+
+Node.js
+
+🔵 Learning Goal
+
+Express.js
+
+🔵 Learning Goal
+
+MongoDB
+
+🔵 Learning Goal
+
+PHP
+
+🔵 Learning Goal
+
+Laravel
+
+🔵 Learning Goal
+
+</div>
+
+🔥 CURRENTLY LEARNING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript%20Advanced-75%25-00F5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-70%25-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React.js-45%25-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-30%25-0099FF?style=for-the-badge"/>
+
+</div>
+
+JavaScript Advanced       ███████████████████████░░░░░  75%
+Data Structures           █████████████████████░░░░░░░  70%
+React.js                  █████████████░░░░░░░░░░░░░░  45%
+Backend Development       █████████░░░░░░░░░░░░░░░░░░  30%
+
+🎯 LEARNING GOALS
+
+These are the technologies I want to master next and integrate into real-world applications.
+
+<div align="center">
+
+⚛️ React.js
+
+Component Architecture • Hooks • State Management • APIs
+
+🟢 Node.js
+
+Server-side JavaScript • REST APIs • Backend Architecture
+
+🚂 Express.js
+
+Routing • Middleware • REST API Development
+
+🍃 MongoDB
+
+NoSQL • Database Design • CRUD • Data Modeling
+
+🐘 PHP
+
+Backend Fundamentals • Server-side Development
+
+🔥 Laravel
+
+MVC • Authentication • APIs • Scalable Backend Applications
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,laravel" />
+
+</div>
+
+🚀 WHAT I BUILD
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
 
 🧠 DSA Practice Hub
 
-Programming isn't memorizing algorithms—it's learning how to think.
-
-Highlights
-
-🔹 Arrays
-
-🔹 Strings
-
-🔹 Searching Algorithms
-
-🔹 Sorting Algorithms
-
-🔹 Matrix Problems
-
-🔹 Stack
-
-🔹 Queue
-
-🔹 Linked List
-
-🔹 Object-Oriented Programming
-
-Tech Stack
+Train the logic. Understand the problem. Write the solution.
 
 C • C++
 
 </td>
-
-<td width="50%">
+<td align="center" width="50%">
 
 🌐 Frontend Projects
 
-Building modern, responsive and interactive websites.
-
-Projects
-
-✨ Authentication UI
-
-✨ Login System
-
-✨ OTP Verification
-
-✨ Quiz Application
-
-✨ Image Slider
-
-✨ Stopwatch
-
-✨ Digital Clock
-
-✨ Typing Test
-
-✨ CRUD System
-
-Tech Stack
+Responsive interfaces with modern interactions and animation.
 
 HTML • CSS • Bootstrap • JavaScript
 
 </td>
-
 </tr>
-
 </table>
 
-🏆 Achievements
+</div>
 
-🏅 Strong Foundation in C Programming
+✨ Project Ideas & Builds
 
-🏅 Object-Oriented Programming using C++
+🔐 Authentication UI
 
-🏅 Data Structures & Algorithms Learning Journey
+🔑 Login / Registration System
 
-🏅 Multiple Responsive Web Projects
+📱 OTP Verification
 
-🏅 Daily Problem Solving Practice
+🧠 Quiz Application
 
-🏅 Version Control with Git & GitHub
+🖼️ Image Slider
 
-🏅 Continuous Learning Mindset
+⏱️ Stopwatch
 
-🏅 Clean & Maintainable Code
+🕐 Digital Clock
 
-📈 GitHub Statistics
+⌨️ Typing Test
+
+📝 CRUD System
+
+🎨 Animated Landing Pages
+
+🌀 GSAP Interaction Experiments
+
+📜 Smooth Scroll Experiences
+
+🏆 ACHIEVEMENTS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yasin7458&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+🏅
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin7458&layout=compact&theme=tokyonight&hide_border=true"/>
+Achievement
+
+01
+
+Strong foundation in C programming
+
+02
+
+Object-Oriented Programming with C++
+
+03
+
+Active Data Structures & Algorithms journey
+
+04
+
+Multiple responsive frontend projects
+
+05
+
+GSAP animation & interaction practice
+
+06
+
+Locomotive.js & Swiper.js experience
+
+07
+
+Git & GitHub version control
+
+08
+
+Continuous learning mindset
 
 </div>
 
-🔥 GitHub Streak
+📈 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yasin7458&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yasin7458&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin7458&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasin7458&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yasin7458&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
-🏅 GitHub Trophies
+🏅 GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yasin7458&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yasin7458&theme=algolia&no-frame=true&no-bg=true&row=2&column=4" />
 
 </div>
 
-📊 Contribution Graph
+🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasin7458&theme=tokyo-night&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
-🎯 2026 Goals
+🎯 2026 MISSION
 
-🎯 Solve 500+ DSA Problems
+╭─────────────────────────────────────────────────────────────╮
+│                                                             │
+│  🎯 Solve 500+ DSA Problems                                │
+│                                                             │
+│  🎯 Build 20+ Real World Projects                          │
+│                                                             │
+│  🎯 Master Advanced JavaScript                             │
+│                                                             │
+│  🎯 Become Stronger With React.js                          │
+│                                                             │
+│  🎯 Learn Node.js + Express.js                             │
+│                                                             │
+│  🎯 Learn MongoDB                                          │
+│                                                             │
+│  🎯 Explore PHP + Laravel                                  │
+│                                                             │
+│  🎯 Build Full Stack Applications                          │
+│                                                             │
+│  🎯 Contribute To Open Source                              │
+│                                                             │
+│  🎯 Become Industry Ready                                  │
+│                                                             │
+╰─────────────────────────────────────────────────────────────╯
 
-🎯 Build 20+ Real World Projects
-
-🎯 Master Advanced JavaScript
-
-🎯 Learn React.js
-
-🎯 Learn Backend Development
-
-🎯 Build Full Stack Applications
-
-🎯 Contribute to Open Source
-
-🎯 Become Job Ready
-
-💼 Development Mindset
-
-Think ➜ Plan ➜ Build ➜ Debug ➜ Improve ➜ Repeat
-
-🌟 What You'll Find Here
-
-✔ Clean Source Code
-
-✔ Beginner to Intermediate DSA
-
-✔ Frontend Development Projects
-
-✔ JavaScript Practice
-
-✔ Responsive UI Designs
-
-✔ Coding Experiments
-
-✔ Continuous Improvements
-
-✔ Learning in Public
+💎 DEVELOPMENT PHILOSOPHY
 
 <div align="center">
 
-🚀 "Small Improvements Every Day Lead to Big Results."
+"Great software begins with great logic."
+
+<br/>
+
+THINK ➜ PLAN ➜ BUILD ➜ DEBUG ➜ IMPROVE ➜ REPEAT
+
+<br/>
+
+Consistency over motivation.
+Understanding over memorization.
+Quality over quantity.
+Progress over perfection.
 
 </div>
 
-🌍 Let's Connect
+🌍 LET'S CONNECT
 
 <div align="center">
 
 <a href="mailto:yashinmithani950@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yashin-mithani-7421093ab">
@@ -555,72 +602,50 @@ Think ➜ Plan ➜ Build ➜ Debug ➜ Improve ➜ Repeat
 
 </div>
 
-💬 Developer Quote
+💬 DEVELOPER QUOTE
 
 <div align="center">
 
-"First, solve the problem.
+🧩
 
+"First, solve the problem.
 Then, write clean and maintainable code."
 
 </div>
 
-🧩 Currently Exploring
-
-🧠 Advanced Data Structures & Algorithms
-
-⚡ Modern JavaScript
-
-⚛ React.js
-
-🌐 Backend Development
-
-🚀 Full Stack Development
-
-🤝 Open Source Contributions
-
-📌 Developer Principles
-
-💡 Write code that is easy to understand.
-
-🚀 Build projects that solve real problems.
-
-🧠 Learn concepts instead of memorizing syntax.
-
-📚 Keep improving every single day.
-
-🤝 Share knowledge and learn from others.
-
-🐍 Contribution Snake
+👀 WHAT YOU'LL FIND HERE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://img.shields.io/badge/DSA-Practice-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frontend-Projects-00F5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-Experiments-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GSAP-Animations-88CE02?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive-UI-0099FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-In_Public-FF00FF?style=for-the-badge"/>
 
 </div>
 
-👀 Profile Views
+☕ THANKS FOR VISITING
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=yasin7458&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Keep+coding+%F0%9F%92%BB;Keep+learning+%F0%9F%A7%A0;Keep+building+%F0%9F%9A%80;Never+stop+improving+%E2%9C%A8" alt="Thanks animation"/>
 
-</div>
-
-☕ Thanks for Visiting
-
-<div align="center">
+<br/>
 
 ⭐ If you like my work, consider giving a ⭐ to my repositories.
+
+<br/>
 
 "Every project is another step toward becoming a better software engineer."
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F5FF,50:6C63FF,100:FF00FF"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F5FF,50:6C63FF,100:FF00FF&animation=fadeIn"/>
 
 </div>
