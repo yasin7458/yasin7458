@@ -9,10 +9,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=yasin7458&label=PROFILE%20VIEWS&style=for-the-badge&color=00F5FF"/>
-<img src="https://img.shields.io/github/followers/yasin7458?style=for-the-badge&label=FOLLOWERS&color=6C63FF"/>
-<img src="https://img.shields.io/github/stars/yasin7458?style=for-the-badge&label=STARS&color=A855F7"/>
-
 </div>
 
 ---
