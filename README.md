@@ -1,429 +1,469 @@
-<!-- =========================
-     🌌 YASIN MITHANI — GITHUB PROFILE
-     ========================= -->
+<!-- ========================= -->
+
+<!--        HERO BANNER        -->
+
+<!-- ========================= -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,25:0099FF,50:6C63FF,75:A855F7,100:FF00FF&text=Yasin%20Mithani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Future%20Full%20Stack%20Developer&descAlignY=58"/>
+</p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=YASIN%20MITHANI&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20Learner%20%7C%20DSA%20Enthusiast&descAlignY=61&animation=fadeIn&color=gradient" width="100%"/>
+👋 Hello World, I'm Yasin Mithani
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=850&color=6C63FF&center=true&vCenter=true&width=800&lines=Frontend+Developer+%F0%9F%92%BB;React.js+Learner+%E2%9A%9B%EF%B8%8F;JavaScript+Learner+%F0%9F%9F%A8;DSA+Enthusiast+%F0%9F%A7%A0;Building+Real+World+Projects+%F0%9F%9A%80;Future+Full+Stack+Developer+%F0%9F%94%A5" alt="Typing Animation"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=yasin7458&label=PROFILE%20VIEWS&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/yasin7458?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/yasin7458?style=for-the-badge&logo=github&label=STARS" alt="Stars"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=00F5FF&center=true&vCenter=true&width=850&lines=Passionate+Frontend+Developer;Problem+Solver;C+%7C+C%2B%2B+Developer;Data+Structures+%26+Algorithms+Learner;Building+Projects+Every+Day;Future+Full+Stack+Developer;Never+Stop+Learning+🚀"/>
 
 </div>
 
-✨ Welcome to My Profile
+💻 Terminal
 
-<div align="center">
+> booting developer profile...
 
-👋 Hey there! I'm Yasin Mithani
+✔ Name            : Yasin Mithani
+✔ Location        : Gujarat, India
+✔ Programming     : C | C++
+✔ Frontend        : HTML | CSS | Bootstrap | JavaScript
+✔ Focus           : Data Structures & Algorithms
+✔ Status          : Building Real World Projects
+✔ Goal            : Become a Full Stack Developer
 
-I love turning ideas into clean, responsive and interactive web experiences.
+System Ready...
 
-</div>
+⚡ Philosophy
 
-<table>
-<tr>
-<td width="60%">
+"Behind every successful project is curiosity, consistency, and countless hours
+of learning. That's the mindset I bring to every line of code."
 
 🚀 About Me
 
-I'm a passionate developer focused on frontend development, JavaScript, React.js and problem solving.
+I'm a passionate developer who enjoys transforming ideas into clean, responsive and efficient applications.
 
-My programming journey started with C and C++, where I built a strong foundation in programming logic, Object-Oriented Programming and problem solving.
+My programming journey began with C, where I built a strong foundation in programming logic. From there, I explored C++, Object-Oriented Programming, and gradually developed a deep interest in Data Structures & Algorithms.
 
-I then moved into HTML, CSS, Bootstrap and JavaScript, creating responsive and interactive web projects.
+Alongside problem solving, I enjoy creating modern and responsive user interfaces using HTML, CSS, Bootstrap, and JavaScript.
 
-Right now, my main focus is React.js, while continuously improving JavaScript and DSA.
+I believe consistency is more valuable than speed. Every project I complete teaches me something new, helping me become a stronger developer every day.
 
-My long-term goal is simple:
+🌟 What Defines Me
 
-Become a strong Full Stack Developer by learning, building and improving every day.
+🧠 Logical Thinker
 
-</td>
+💻 Clean Code Writer
 
-<td width="40%" align="center">
+🚀 Fast Learner
 
-╭──────────────────────────────╮
-│       👨‍💻 DEVELOPER         │
-├──────────────────────────────┤
-│                              │
-│  Name     : Yasin Mithani   │
-│  Role     : Frontend Dev    │
-│  Focus    : React.js        │
-│  Practice : DSA             │
-│  Learning : JavaScript      │
-│  Goal     : Full Stack 🚀   │
-│                              │
-╰──────────────────────────────╯
+🎯 Goal Oriented
 
-</td>
-</tr>
-</table>
+📚 Lifelong Learner
 
-🧰 Tech Stack
+⚡ Project Builder
+
+❤️ Passionate Developer
+
+🔥 Never Give Up
+
+🛠 Current Mission
+
+✓ Master Data Structures
+
+✓ Improve Algorithmic Thinking
+
+✓ Build Advanced JavaScript Projects
+
+✓ Learn React.js
+
+✓ Explore Backend Development
+
+✓ Become Industry Ready
+
+✓ Build Scalable Applications
+
+📌 Developer Journey
+
+Programming Logic
+        │
+        ▼
+C Programming
+        │
+        ▼
+C++
+        │
+        ▼
+Object-Oriented Programming
+        │
+        ▼
+Data Structures
+        │
+        ▼
+Algorithms
+        │
+        ▼
+HTML
+        │
+        ▼
+CSS
+        │
+        ▼
+Bootstrap
+        │
+        ▼
+JavaScript
+        │
+        ▼
+React.js
+        │
+        ▼
+Node.js
+        │
+        ▼
+Express.js
+        │
+        ▼
+MongoDB
+        │
+        ▼
+🚀 Full Stack Developer
 
 <div align="center">
 
-💻 Programming
+⭐ "Great Software Begins With Great Logic."
 
-<img src="https://skillicons.dev/icons?i=c,cpp" height="60" alt="C C++"/>
+⚙️ Tech Arsenal
 
-<br/><br/>
+<div align="center">
 
-🌐 Frontend
+💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" height="60" alt="HTML CSS Bootstrap JavaScript React"/>
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,js" />
+</p>
 
-<br/><br/>
+🌐 Frontend Development
 
-🔧 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="60" alt="Git GitHub VS Code"/>
+🛠 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 </div>
 
-🧠 What I Know
-
-<div align="center">
+🧠 Core Expertise
 
 <table>
-<tr>
-<th>💻 Programming</th>
-<th>🌐 Frontend</th>
-<th>🔧 Tools</th>
-</tr>
 
 <tr>
-<td>
 
-✔ C
+<td width="50%">
+
+💻 Programming
+
+✔ C Programming
+
 ✔ C++
-✔ OOP
+
+✔ Object-Oriented Programming
+
 ✔ STL Basics
-✔ Logic Building
+
 ✔ Debugging
+
+✔ Logic Building
 
 </td>
 
+<td width="50%">
+
+🧩 Problem Solving
+
+✔ Arrays
+
+✔ Strings
+
+✔ Matrix Problems
+
+✔ Searching Algorithms
+
+✔ Sorting Algorithms
+
+✔ Basic DSA
+
+✔ Time Complexity Fundamentals
+
+</td>
+
+</tr>
+
+<tr>
+
 <td>
 
+🌍 Frontend
+
 ✔ HTML5
+
 ✔ CSS3
+
 ✔ Bootstrap 5
+
 ✔ Responsive Design
+
 ✔ Flexbox
+
 ✔ CSS Animations
+
 ✔ JavaScript DOM
 
 </td>
 
 <td>
 
+⚙ Development
+
 ✔ Git
+
 ✔ GitHub
+
 ✔ VS Code
-✔ Version Control
-✔ Project Organization
+
 ✔ Clean Folder Structure
 
+✔ Project Organization
+
+✔ Version Control
+
 </td>
+
 </tr>
+
 </table>
 
-</div>
+🚀 Currently Learning
 
-🧩 DSA & Problem Solving
+███████████████████████░░░░░░░  75%
+
+✔ Advanced JavaScript
+
+███████████████████░░░░░░░░░░░  65%
+
+✔ Data Structures & Algorithms
+
+███████████████░░░░░░░░░░░░░░░  55%
+
+✔ React.js
+
+████████░░░░░░░░░░░░░░░░░░░░░░  30%
+
+✔ Backend Development
+
+██████░░░░░░░░░░░░░░░░░░░░░░░░  20%
+
+✔ MongoDB
+
+📚 Learning Path
+
+✅ Programming Fundamentals
+
+        ↓
+
+✅ C Programming
+
+        ↓
+
+✅ C++
+
+        ↓
+
+✅ Object-Oriented Programming
+
+        ↓
+
+✅ Data Structures
+
+        ↓
+
+✅ Algorithms
+
+        ↓
+
+✅ HTML
+
+        ↓
+
+✅ CSS
+
+        ↓
+
+✅ Bootstrap
+
+        ↓
+
+🟡 JavaScript (Advanced)
+
+        ↓
+
+🔜 React.js
+
+        ↓
+
+🔜 Node.js
+
+        ↓
+
+🔜 Express.js
+
+        ↓
+
+🔜 MongoDB
+
+        ↓
+
+🎯 Full Stack Development
+
+🎯 Development Principles
+
+I Believe In
+
+✔ Writing Clean Code
+
+✔ Building Real Projects
+
+✔ Solving Problems Before Searching Solutions
+
+✔ Understanding Concepts Instead Of Memorizing
+
+✔ Learning Something New Every Day
+
+✔ Consistency Over Motivation
+
+✔ Code Quality Over Code Quantity
+
+✔ Continuous Improvement
+
+💡 What I'm Looking For
+
+🚀 Open Source Contributions
+
+💻 Frontend Development Opportunities
+
+🧠 Challenging DSA Problems
+
+🤝 Collaboration With Developers
+
+🌱 Continuous Learning
+
+⚡ Building Better Software
 
 <div align="center">
 
-ARRAYS　STRINGS　MATRIX　SEARCHING　SORTING
-
-<br/>
-
-STACK　QUEUE　LINKED LIST　TIME COMPLEXITY
+💎 "Code. Learn. Improve. Repeat."
 
 </div>
 
-⚛️ React.js — Current Focus
-
-<div align="center">
-
-                 ┌───────────────┐
-                 │    HTML/CSS   │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │  BOOTSTRAP    │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │  JAVASCRIPT   │
-                 └───────┬───────┘
-                         ↓
-                 ╔═══════════════╗
-                 ║   ⚛ REACT.JS  ║
-                 ║  CURRENT FOCUS║
-                 ╚═══════╤═══════╝
-                         ↓
-                 ┌───────────────┐
-                 │ REAL PROJECTS │
-                 └───────┬───────┘
-                         ↓
-                 🚀 FULL STACK
-
-</div>
-
-I'm currently learning React.js by converting ideas and frontend designs into reusable React components and complete responsive pages.
-
-📚 Currently Learning
-
-<div align="center">
-
-🛠️ Skill
-
-📌 Status
-
-⚛️ React.js
-
-🟡 Learning
-
-🟨 Advanced JavaScript
-
-🟡 Improving
-
-🧠 Data Structures & Algorithms
-
-🟡 Practicing
-
-🎨 Responsive UI Development
-
-🟢 Building
-
-🚀 Full Stack Development
-
-🔜 Next Goal
-
-</div>
-
-🔥 I don't want to just learn technologies — I want to build with them.
-
-🚀 Projects & Practice
-
-<div align="center">
+🚀 Featured Projects
 
 <table>
+
 <tr>
-<td align="center" width="33%">
 
-🔐
+<td width="50%">
 
-Authentication
+🧠 DSA Practice Hub
 
-Login UI
-OTP Verification
-Authentication Interface
+Programming isn't memorizing algorithms—it's learning how to think.
+
+Highlights
+
+🔹 Arrays
+
+🔹 Strings
+
+🔹 Searching Algorithms
+
+🔹 Sorting Algorithms
+
+🔹 Matrix Problems
+
+🔹 Stack
+
+🔹 Queue
+
+🔹 Linked List
+
+🔹 Object-Oriented Programming
+
+Tech Stack
+
+C • C++
+
+</td>
+
+<td width="50%">
+
+🌐 Frontend Projects
+
+Building modern, responsive and interactive websites.
+
+Projects
+
+✨ Authentication UI
+
+✨ Login System
+
+✨ OTP Verification
+
+✨ Quiz Application
+
+✨ Image Slider
+
+✨ Stopwatch
+
+✨ Digital Clock
+
+✨ Typing Test
+
+✨ CRUD System
+
+Tech Stack
+
+HTML • CSS • Bootstrap • JavaScript
 
 </td>
 
-<td align="center" width="33%">
-
-🧠
-
-Applications
-
-Quiz App
-CRUD System
-Typing Test
-
-</td>
-
-<td align="center" width="33%">
-
-🎨
-
-UI Projects
-
-Image Slider
-Stopwatch
-Digital Clock
-Responsive Designs
-
-</td>
 </tr>
+
 </table>
 
-</div>
+🏆 Achievements
 
-💼 Current Portfolio Project
+🏅 Strong Foundation in C Programming
 
-<div align="center">
+🏅 Object-Oriented Programming using C++
 
-🎨 React + Bootstrap Portfolio
+🏅 Data Structures & Algorithms Learning Journey
 
-</div>
+🏅 Multiple Responsive Web Projects
 
-I'm currently building a single-page developer portfolio using React.js, Bootstrap and custom CSS.
+🏅 Daily Problem Solving Practice
 
-✨ Sections
+🏅 Version Control with Git & GitHub
 
-HEADER
-  ↓
-HOME
-  ↓
-ABOUT
-  ↓
-EXPERIENCE
-  ↓
-SERVICES
-  ↓
-PORTFOLIO
-  ↓
-CONTACT
-  ↓
-FOOTER
+🏅 Continuous Learning Mindset
 
-🔥 Project Focus
+🏅 Clean & Maintainable Code
 
-⚛️ Reusable React Components
-
-📱 Responsive Design
-
-🧩 Bootstrap Grid & Utilities
-
-🎨 Custom CSS
-
-🖼️ Modern UI Design
-
-✨ Interactive Frontend
-
-📂 Clean Project Structure
-
-🗺️ Developer Roadmap
+📈 GitHub Statistics
 
 <div align="center">
 
-                         🎯 MY JOURNEY
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yasin7458&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-                            START
-                              │
-                              ▼
-                   ┌──────────────────┐
-                   │ Programming Logic│
-                   └────────┬─────────┘
-                            ▼
-                      C → C++ → OOP
-                            │
-                            ▼
-                   🧠 DSA + Algorithms
-                            │
-                            ▼
-                 HTML → CSS → Bootstrap
-                            │
-                            ▼
-                      🟨 JavaScript
-                            │
-                            ▼
-                       ⚛️ React.js
-                            │
-                            ▼
-                    🌐 Backend Learning
-                            │
-                            ▼
-                  🚀 FULL STACK DEVELOPER
-
-</div>
-
-🎯 2026 Goals
-
-<div align="center">
-
-Goal
-
-Mission
-
-⚛️ React.js
-
-Get stronger by building projects
-
-🟨 JavaScript
-
-Master advanced concepts
-
-🧠 DSA
-
-Improve problem solving
-
-🎨 Frontend
-
-Build professional interfaces
-
-🌐 Backend
-
-Start backend development
-
-🗄️ Database
-
-Learn MongoDB
-
-🚀 Full Stack
-
-Build complete applications
-
-💼 Career
-
-Become job ready
-
-</div>
-
-💡 How I Learn
-
-<div align="center">
-
-       🧠 THINK
-          ↓
-       📝 PLAN
-          ↓
-       💻 BUILD
-          ↓
-       🐛 DEBUG
-          ↓
-       🔍 UNDERSTAND
-          ↓
-       🚀 IMPROVE
-          ↓
-       🔁 REPEAT
-
-</div>
-
-"Understanding the concept is more important than memorizing the syntax."
-
-🌟 My Developer Principles
-
-<table>
-<tr>
-<td align="center">🧠<br/><b>Think</b><br/>Understand before coding.</td>
-<td align="center">💻<br/><b>Build</b><br/>Learn through projects.</td>
-<td align="center">🐛<br/><b>Debug</b><br/>Learn from mistakes.</td>
-<td align="center">🚀<br/><b>Improve</b><br/>Become better every day.</td>
-</tr>
-</table>
-
-📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yasin7458&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin7458&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin7458&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -431,43 +471,69 @@ Become job ready
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yasin7458&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=yasin7458&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-🏆 GitHub Trophies
+🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yasin7458&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yasin7458&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </div>
 
-📈 Contribution Activity
+📊 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasin7458&theme=tokyo-night&hide_border=true&area=true&radius=8" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasin7458&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
-🐍 Contribution Snake
+🎯 2026 Goals
+
+🎯 Solve 500+ DSA Problems
+
+🎯 Build 20+ Real World Projects
+
+🎯 Master Advanced JavaScript
+
+🎯 Learn React.js
+
+🎯 Learn Backend Development
+
+🎯 Build Full Stack Applications
+
+🎯 Contribute to Open Source
+
+🎯 Become Job Ready
+
+💼 Development Mindset
+
+Think ➜ Plan ➜ Build ➜ Debug ➜ Improve ➜ Repeat
+
+🌟 What You'll Find Here
+
+✔ Clean Source Code
+
+✔ Beginner to Intermediate DSA
+
+✔ Frontend Development Projects
+
+✔ JavaScript Practice
+
+✔ Responsive UI Designs
+
+✔ Coding Experiments
+
+✔ Continuous Improvements
+
+✔ Learning in Public
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake"/>
-
-</div>
-
-👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=yasin7458&label=TOTAL%20PROFILE%20VIEWS&style=for-the-badge&color=6C63FF" alt="Total Profile Views"/>
-
-<br/><br/>
-
-⭐ Thanks to everyone who visits, follows and supports my journey!
+🚀 "Small Improvements Every Day Lead to Big Results."
 
 </div>
 
@@ -476,31 +542,85 @@ Become job ready
 <div align="center">
 
 <a href="mailto:yashinmithani950@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yashin-mithani-7421093ab">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/yasin7458">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
+
+💬 Developer Quote
+
+<div align="center">
+
+"First, solve the problem.
+
+Then, write clean and maintainable code."
+
+</div>
+
+🧩 Currently Exploring
+
+🧠 Advanced Data Structures & Algorithms
+
+⚡ Modern JavaScript
+
+⚛ React.js
+
+🌐 Backend Development
+
+🚀 Full Stack Development
+
+🤝 Open Source Contributions
+
+📌 Developer Principles
+
+💡 Write code that is easy to understand.
+
+🚀 Build projects that solve real problems.
+
+🧠 Learn concepts instead of memorizing syntax.
+
+📚 Keep improving every single day.
+
+🤝 Share knowledge and learn from others.
+
+🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=yasin7458&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+☕ Thanks for Visiting
+
+<div align="center">
+
+⭐ If you like my work, consider giving a ⭐ to my repositories.
+
+"Every project is another step toward becoming a better software engineer."
 
 </div>
 
 <div align="center">
 
-💜 Keep Building. Keep Learning.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F5FF,50:6C63FF,100:FF00FF"/>
 
-CODE • LEARN • BUILD • IMPROVE • REPEAT
-
-<br/>
-
-"Every project is another step toward becoming a better developer."
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&animation=fadeIn&color=gradient" width="100%" alt="Footer"/>
+</div>
 
 </div>
