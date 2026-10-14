@@ -251,7 +251,7 @@ A movie management interface.
 
 ## `06 // CONTRIBUTION ACTIVITY`
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yasin7458&bg_color=030712&color=00F5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=GITHUB%20ACTIVITY" alt="GitHub activity graph"/>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yasin7458&theme=react-dark&hide_border=true&area=true)](https://github.com/yasin7458)
 
 </div>
 
