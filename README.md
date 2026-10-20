@@ -235,8 +235,6 @@ A movie management interface.
 
 *An overview of public GitHub activity.*
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yasin7458&show_icons=true&hide_border=true&bg_color=030712&title_color=00F5FF&icon_color=8B5CF6&text_color=E2E8F0&cache_seconds=86400" alt="GitHub statistics"/>
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin7458&layout=compact&hide_border=true&bg_color=030712&title_color=00F5FF&text_color=E2E8F0&cache_seconds=86400" alt="Top languages"/>
 
 <br/><br/>
